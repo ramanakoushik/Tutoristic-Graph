@@ -1,0 +1,12 @@
+fastapi>=0.115.6
+uvicorn[standard]>=0.32.1
+pydantic>=2.12.0
+pydantic-settings>=2.7.0
+falkordb>=1.1.2
+langgraph>=0.4.0
+langchain>=0.3.0
+langchain-groq>=0.2.2
+langchain-core>=0.3.28
+redis>=5.2.1
+python-dotenv>=1.0.1
+httpx>=0.28.1
